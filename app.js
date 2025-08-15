@@ -12,6 +12,7 @@ function drawLandscape() {
     // (Ajoutez d'autres éléments de paysage ici)
 }
 
+// Dessiner le paysage initial
 drawLandscape();
 
 // Ajouter un événement de clic sur le canevas pour dessiner avec la couleur sélectionnée
